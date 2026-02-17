@@ -15,7 +15,6 @@
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">Über mich</a></li>
                 <li><a href="#projects">Projekte</a></li>
-                <li><a href="#income">Einkommen</a></li>
                 <li><a href="#contact">Kontakt</a></li>
             </ul>
         </div>
@@ -87,7 +86,7 @@
                 <div class="project-card">
                     <div class="project-icon">🛒</div>
                     <h3>Online Shop</h3>
-                    <p>Mein erstes E-Commerce Projekt. Hier verkaufe ich digitale Produkte und physische Waren.</p>
+                    <p>Mein erstes E-Commerce Projekt. Hier verkaufe ich physische Waren.</p>
                     <a href="#" class="project-link">Zum Shop →</a>
                 </div>
                 <div class="project-card">
